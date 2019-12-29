@@ -3,7 +3,7 @@ echo '{"list":[
 
   {
     "id": 107,
-    "tiyle": "Cinsiyetini seçer misin?",
+    "title": "Cinsiyetini seçer misin?",
     "type": "1",
     "zorunlu": true,
     "secenekler": [
