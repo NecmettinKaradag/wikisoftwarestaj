@@ -2,8 +2,8 @@
 echo '{"list":[
 
   {
-    "id": 100,
-    "title": "Cinsiyetini seçer misin?",
+    "id": 107,
+    "tiyle": "Cinsiyetini seçer misin?",
     "type": "1",
     "zorunlu": true,
     "secenekler": [
@@ -11,7 +11,7 @@ echo '{"list":[
       "Kadın"
     ]
   },{
-    "id": 101,
+    "id": 106,
     "title": "Yaşını da seç.",
     "type": "3",
     "zorunlu": true,
@@ -24,7 +24,7 @@ echo '{"list":[
       "65+"
     ]
   },{
-    "id": 102,
+    "id": 105,
     "title": "Evden çıkmadan önce yapacağın son şey nedir?",
     "type": "3",
     "zorunlu": true,
@@ -34,7 +34,7 @@ echo '{"list":[
       "Ütüyü fişte mi unuttum diye kontrol ederim."
     ]
   },{
-    "id":103,
+    "id":104,
     "title": "Lütfen boşluğu doldurur musun? Aslında insanlar doğasında ........dır/dir/dur.",
      "type": "3",
     "zorunlu": true,
@@ -45,7 +45,7 @@ echo '{"list":[
       "Vurdumduymaz"
     ]
   },{
-    "id": 104,
+    "id": 103,
     "title": "Şahsi bilgilerini paylaştığın sosyal medya siteleri için ne düşünüyorsun?",
      "type": "3",
     "zorunlu": true,
@@ -57,7 +57,7 @@ echo '{"list":[
       "Takılıyorum işte kim ne yapmış diye"
     ]
   },{
-    "id": 105,
+    "id": 102,
     "title": "Telefonunda şifre var mı?",
     "type": "1",
     "zorunlu": true,
@@ -66,7 +66,7 @@ echo '{"list":[
       "Yok neden olsun ki?"
     ]
   },{
-    "id": 106,
+    "id": 101,
     "title": "Sence güvenlik kameraları çok gerekli bir alet mi?",
      "type": "3",
     "zorunlu": true,
@@ -76,7 +76,7 @@ echo '{"list":[
       "Bence hiç gerek yok!"
     ]
   },{
-    "id": 107,
+    "id": 100,
     "title": "Son olarak, balık hafıza bile olabilirsin, ama yapmayı asla unutmayacağın şey nedir?",
      "type": "3",
     "zorunlu": true,
